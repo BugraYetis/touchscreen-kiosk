@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧊 Touchscreen
+# 👆 Touchscreen
 
 **Three.js / 3D · Dokunmatik Ürün Vitrini**
 
